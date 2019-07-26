@@ -16,4 +16,6 @@ Aqui estão reunidos os desafios e os exercícios propostos e acompanhados pelos
 <h2>Seção 4: CSS3</h2>
   <p><strong>Conteúdo geral:</strong> introdução ao css, inline css, seletores, classes e ids, div e span, bordas, fontes, cores, tamanhos e estilos de texto, background, imagem de fundo, modelo caixa, elementos flutuantes, elementos inline, block e inline-block, posicionamentos estático, relativo, absoluto e fixo, sobreposição de elementos, formatação de links e dois projetos finais.<br><br>
 
-  <a href="https://github.com/antonialucianapires/Curso-Desenvolvimento-Web/tree/master/Projeto%20AnnaBella">2. Projeto Anna Bella</a> 
+  <a href="https://github.com/antonialucianapires/Curso-Desenvolvimento-Web/tree/master/Projeto%20AnnaBella">2. Projeto Anna Bella</a><br>
+  <a href="https://github.com/antonialucianapires/Curso-Desenvolvimento-Web/tree/master/TecBlog">3. Projeto TecBlog</a> 
+
