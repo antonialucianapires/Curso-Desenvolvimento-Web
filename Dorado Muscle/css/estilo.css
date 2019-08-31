@@ -1,0 +1,238 @@
+/*estilo página*/
+
+*{margin: 0; padding: 0;}
+
+body {
+    background: #fff;
+    font-family: 'Anonymous Pro';
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 4em;
+    color: #61ed84;
+    font-weight: bold;
+    
+}
+
+
+header {
+    background: #61ed84;
+    margin: 0;
+    padding: 40px;
+    height: 500px;
+}
+
+.titulo-principal {
+    width: 465.292px; 
+    height: 269.958px;
+    background: #ffffff;
+    padding: 30px;
+    margin: 4% auto;
+    position: relative;
+}
+
+.titulo-principal h1 {
+    font-size: 4em;
+    text-align: center;
+    line-height: 84%;
+    position: absolute;
+    top: 28%;
+    bottom: 28%;
+    left: 4%;
+    right: 4%;
+    color: #323232;
+}
+
+.sub-titulo {
+    margin: 29%;
+    font-size: 2em;
+    color: #61ed84;
+    position: absolute;
+    top: 15%;
+    left: 3%;
+    right: 3%;;
+}
+
+nav {
+    background: #323232;
+}
+
+.menu {
+    width: 673px;
+    padding: 18px 8px;
+    background: #323232;
+    margin: 0 auto;
+    
+
+}
+
+.menu li {
+    list-style-type: none;
+    text-decoration: none;
+    align-items: center;
+    padding: 14px;
+    display: inline-block;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #61ed84;
+}
+
+.menu li a:hover {
+    color: #fff;
+}
+
+.section-about {
+    width: 100%;
+    height: 50em;
+    position: relative;
+}
+
+.about {
+    padding: 40px;
+    position: relative;
+    height: 650px;
+}
+
+.bloco-verde {
+    width: 360px;
+    height: 474px;
+    background: #61ed84;
+    display: inline-block;
+    position: absolute;
+    top: 18%;
+    left: 12%;
+}
+
+.bloco-imagem1 {
+    width: 360px;
+    height: 474px;
+    position: absolute;
+    bottom: 8%;
+    left: 8%;
+}
+
+.about-text {
+    padding: 40px;
+    position: absolute;
+    width: 40%;
+    top: 28%;
+    left: 35%;
+}
+
+.section-membership {
+    width: 100%;
+    height: 50em;
+    background: #323232;
+    position: relative;
+}
+
+.titulo-membership {
+    position: absolute;
+    top: 11%;
+    left: 40%;
+    right: 44%;
+    text-align: center;
+    font-size: 2.5em;
+    color: #61ed84;
+}
+
+.membership {
+    width: 60%;
+    height: 50%;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+
+.planos {
+    width: 300px;
+    height: 80%;
+    background: #fff;
+    float: left;
+    margin: 0px 30px
+}
+
+.planos h2 {
+    padding: 40px;
+    margin: 0;
+    background: grey url("https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80") no-repeat center;
+    text-align: center;
+    color: #61ed84;
+    background-position: center;
+    background-size: cover;
+}
+
+.planos p {
+    font-size: 1.6em;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+
+.section-depoimento {
+    background: #fff;
+    width: 100%;
+    height: 50em;
+    position: relative;
+}
+
+.depoimento {
+    background: #61ed84;
+    width: 40%;
+    height: 50%;
+    position: relative;
+    top: 25%;
+    bottom: 25%;
+    margin: 0 auto;
+}
+
+.depoimento p {
+    font-size: 2em;
+    text-align: center;
+    position: absolute;
+    top: 37%;
+}
+
+.section-contact {
+    width: 100%;
+    height: 50em;
+    background: #323232;
+    position: relative;
+}
+
+.imagem-contact {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background: url("https://images.pexels.com/photos/2078063/pexels-photo-2078063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size: cover;
+}
+
+.text-contact {
+    width: 50%;
+    height: 100%;
+    
+}
+
+.conteudo-contact {
+    position: absolute;
+    left: 58%;
+    top: 31%;
+    width: 34%;
+}
+
+.conteudo-contact h2 {
+    font-size: 3.5em;
+    color: #61ed84;
+}
+
+.conteudo-contact p {
+    font-size: 1.9em;
+    color: #fff;
+}
+
+/* @media screen and (max-width:600px) {}*/
