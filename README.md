@@ -18,4 +18,10 @@ Aqui estão reunidos os desafios e os exercícios propostos e acompanhados pelos
 
   <a href="https://github.com/antonialucianapires/Curso-Desenvolvimento-Web/tree/master/Projeto%20AnnaBella">2. Projeto Anna Bella</a><br>
   <a href="https://github.com/antonialucianapires/Curso-Desenvolvimento-Web/tree/master/TecBlog">3. Projeto TecBlog</a> 
-
+  <br>
+  
+  <h4>Prática individual</h4>
+  <p>Projetos feitos fora do curso para treinar o conteúdo aprendido</p>
+  <a href="https://github.com/antonialucianapires/Curso-Desenvolvimento-Web/tree/master/Dorado%20Muscle"> a) Dorado Muscle</a> 
+  <br>
+  
